@@ -32,7 +32,7 @@ Here are the technologies I work with:
 
 📢 My public projects includes plugins, automations and apps that you can check on my GitHub page: [github.com/warleysr](https://github.com/warleysr)  
 
-🕵️ Check the description of my private projects on [/private](https://warleysr.github.io/private)
+🕵️ Check the description of my private projects on [warleysr.github.io/private](https://warleysr.github.io/private)
 
 ---
 
