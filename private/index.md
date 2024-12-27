@@ -7,8 +7,8 @@ A paid app that has the main functionality of changing some files in user games 
 
 **Built with:** Kotlin, Jetpack Compose, Ktor, coil, Accompanist Pager
 
-- Demonstration video: https://drive.google.com/file/d/1VI8YZhu7yJeOJCC2lQzrA8SWv4E8W4Tr/view
-- Download page: https://blackgroup.com.br/tb
+- Demonstration video: [https://drive.google.com/file/d/1VI8YZhu7yJeOJCC2lQzrA8SWv4E8W4Tr/view](https://drive.google.com/file/d/1VI8YZhu7yJeOJCC2lQzrA8SWv4E8W4Tr/view)
+- Download page: [https://blackgroup.com.br/tb](https://blackgroup.com.br/tb)
 
 ### 🌐 Backend
 The backend manages the users, serve the zip files to the client and integrates with all necessary APIs and to the WhatsApp BOT. I developed automatic payments integrations with [MercadoPago](https://mercadopago.com.br), [Efí](https://sejaefi.com.br) and [Stripe](https://stripe.com). Also created a re-seller system where interested individuals can register to sell our product under coupons and earn commission.
